@@ -1,0 +1,6 @@
+print ("Presentación de Python")
+
+print ("Phython es un lenguaje de programación interpretado, interactivo y orientado a objetos. Fue creado por Guido van Rossum en 1991. Python es un lenguaje de alto nivel, lo que significa que es fácil de leer y escribir. Es un lenguaje de propósito general, lo que significa que se puede utilizar para crear una amplia variedad de programas y aplicaciones.")
+print ("Python es un lenguaje de programación de código abierto, lo que significa que cualquiera puede usarlo y modificarlo. Python es un lenguaje de programación muy popular, y se utiliza en una amplia variedad de aplicaciones, desde desarrollo web hasta análisis de datos y aprendizaje automático.")
+print ("Python es un lenguaje de programación muy versátil, y se puede utilizar para crear una amplia variedad de programas y aplicaciones. Python es un lenguaje de programación muy popular, y se utiliza en una amplia variedad de aplicaciones, desde desarrollo web hasta análisis de datos y aprendizaje automático.")
+print ("Tambien es un lenguaje de programación muy fácil de aprender, y se puede utilizar para crear una amplia variedad de programas y aplicaciones. Python es un lenguaje de programación muy popular, y se utiliza en una amplia variedad de aplicaciones, desde desarrollo web hasta análisis de datos y aprendizaje automático.")
